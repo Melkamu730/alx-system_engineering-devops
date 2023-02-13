@@ -1,2 +1,2 @@
 #!/bin/bash
-Cat /etc/passed
+Cat /etc/passwd
